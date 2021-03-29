@@ -64,5 +64,4 @@ $final_screen.addEventListener('click', function (e) {
 })
 
 
-
 mainScreen()

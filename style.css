@@ -2,16 +2,13 @@
 .hide {
 	display: none;
 }
-
 body{
 	background-color: #1B9AAA;
 }
-
 h1{
 	color: #F8FFE5;
 	font-family: sans-serif;
 }
-
 .btn {
 	display: grid;
 	justify-content: center;
@@ -39,7 +36,6 @@ input{
 	border-radius: 5px;
 	background-color: #f8faf3;
 
-
 }
 button{
 	display: grid;
@@ -56,7 +52,6 @@ button{
     box-shadow: 0 10px 10px #124A3A;
 	margin: 80px auto auto auto;
 }
-
 
 p{
 	font-size: larger;
